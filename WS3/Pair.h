@@ -1,9 +1,3 @@
-/*
-Author: Raymond Rambo
-Student Number: 122082175
-Created: 26-09-2018
-Updates: 27-09-2018 (finished Pair.h header file to the specifications of the Lab 3 document)
-*/
 #pragma once
 #include "List.h"
 
