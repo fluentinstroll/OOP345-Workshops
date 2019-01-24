@@ -4,7 +4,7 @@
 namespace w2 {
 	
 
-	Text::Text(const char& rec) { // probably wrong, come back
+	Text::Text(const char& rec) {
 		std::ifstream fin("gutenburg_shakespeare");
 		
 		if (!fin.is_open) { fileName[0] = '/0'; }
